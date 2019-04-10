@@ -4,4 +4,4 @@ spring:
 server:
   servlet:
     context-path: /eureka-client-two
-  port: 60012
+  port: 60013
