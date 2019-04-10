@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: eureka-client-two
 server:
   servlet:
     context-path: /eureka-client-two
