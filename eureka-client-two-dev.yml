@@ -1,6 +1,4 @@
-spring: 
- profiles:
-    active: dev
-
-datasource:
- url: http://www.zhangbd.com
+server:
+  servlet:
+    context-path: /eureka-client-two
+  port: 60001
