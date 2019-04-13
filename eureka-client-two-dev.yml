@@ -1,4 +1,7 @@
-
+server:
+  servlet:
+    context-path: /eureka-client-two
+  port: 60013
 ke:
   data:
     This is my home!!!!!!!
