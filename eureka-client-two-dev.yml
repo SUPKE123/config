@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: eureka-client-two
-server:
-  servlet:
-    context-path: /eureka-client-two
-  port: 60013
+ke:
+  data:
+    我们的家
