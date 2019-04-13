@@ -1,6 +1,4 @@
-spring:
-  application:
-    name: eureka-client-two
+
 ke:
   data:
     This is my home!!
